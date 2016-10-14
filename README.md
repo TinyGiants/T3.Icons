@@ -1,4 +1,4 @@
-# wmdbsystems-typo3-icons
+# tinygiants-typo3-icons
 
 SVG icons for the TYPO3 CMS backend
 
