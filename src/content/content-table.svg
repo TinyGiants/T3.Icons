@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<path fill="#FFFFFF" d="M1,1h14v14H1V1z"/>
-<path fill="#999999" d="M1,1v14h14V1H1z M2,2h12v12H2V2z"/>
-<path fill="#666666" d="M3,3h10v2H3V3z"/>
-<path fill="#B9B9B9" d="M7,6h2v1H7V6z"/>
-<path fill="#B9B9B9" d="M7,8h2v1H7V8z"/>
-<path fill="#B9B9B9" d="M7,10h2v1H7V10z"/>
-<path fill="#B9B9B9" d="M7,12h2v1H7V12z"/>
-<path fill="#B9B9B9" d="M10,6h3v1h-3V6z"/>
-<path fill="#B9B9B9" d="M10,8h3v1h-3V8z"/>
-<path fill="#B9B9B9" d="M10,10h3v1h-3V10z"/>
-<path fill="#B9B9B9" d="M10,12h3v1h-3V12z"/>
-<path fill="#B9B9B9" d="M3,6h3v1H3V6z"/>
-<path fill="#B9B9B9" d="M3,8h3v1H3V8z"/>
-<path fill="#B9B9B9" d="M3,10h3v1H3V10z"/>
-<path fill="#B9B9B9" d="M3,12h3v1H3V12z"/>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path d="M0,32h30V2H0V32z M4,28v-2h6v2H4z M26,12h-6v-2h6V12z M18,12h-6v-2h6V12z M10,22v2H4v-2H10z M4,20v-2h6v2H4z M12,22h6v2h-6
+	V22z M12,20v-2h6v2H12z M12,16v-2h6v2H12z M10,12H4v-2h6V12z M10,14v2H4v-2H10z M12,28v-2h6v2H12z M26,28h-6v-2h6V28z M26,24h-6v-2
+	h6V24z M26,20h-6v-2h6V20z M20,16v-2h6v2H20z M26,6v2h-6V6H26z M18,6v2h-6V6H18z M10,6v2H4V6H10z"/>
 </svg>

@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<g>
-	<g>
-		<rect x="1" y="7" fill="#666666" width="14" height="2"/>
-	</g>
-	<polygon fill="#999999" points="10.5,5 5.5,5 8,2 	"/>
-	<polygon fill="#999999" points="10.5,11 5.5,11 8,14 	"/>
-</g>
-</svg>
+<!-- Copyright © 2015 MODULUS Sp. z o. o. / FUTURAMO™ --><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 32 32"><path  fill="#000000" d="M10,18H6v-2h4V18z M32,16h-4v2h4V16z M20,16h-8v2h8V16z M26,16h-4v2h4V16z M4,16H0v2h4V16z M30,20H2v12h4v-8 h20v8h4V20z M30,2h-4v8H6V2H2v12h28V2z"></path></svg>

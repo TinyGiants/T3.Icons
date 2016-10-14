@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
-    <title>actions-system-extension-documentation-v10</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g class="icon-color">
-        <path d="M13.5,1 L2.5,1 C2.229,1 2,1.223 2,1.498 L2,14.502 C2,14.78 2.224,15 2.5,15 L13.5,15 C13.771,15 14,14.777 14,14.502 L14,1.498 C14,1.22 13.776,1 13.5,1 L13.5,1 Z M3,2 L4,2 L4,14 L3,14 L3,2 Z M5,2 L13,2 L13,14 L5,14 L5,2 Z M6,3 L12,3 L12,4 L6,4 L6,3 Z"></path>
-    </g>
-</svg>
+<!-- Copyright © 2015 MODULUS Sp. z o. o. / FUTURAMO™ --><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 32 32"><path  fill="#000000" d="M16,6.142C12.574,4.742,9.016,4,5.518,4C3.647,4,1.798,4.2,0,4.6C0,11.933,0,18.667,0,26c0,0,0.883,0,2,0v2 c0,0,12-2,12,2h4c0-4,12-2,12-2v-2c1.117,0,2,0,2,0c0-7.333,0-14.067,0-21.4C30.202,4.2,28.353,4,26.483,4 C22.984,4,19.426,4.742,16,6.142z M14,23.189C11.211,22.405,8.348,22,5.518,22C5.011,22,4.505,22.013,4,22.039V8.053 C4.503,8.018,5.01,8,5.518,8C8.352,8,11.244,8.551,14,9.607C14,14.134,14,18.662,14,23.189z M28,22.039 C27.495,22.013,26.989,22,26.483,22c-2.83,0-5.693,0.405-8.482,1.189V9.607C20.756,8.551,23.648,8,26.483,8 C26.99,8,27.497,8.018,28,8.053V22.039z"></path></svg>

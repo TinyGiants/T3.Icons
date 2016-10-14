@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<path fill="#FFFFFF" d="M1,1h14v14H1V1z"/>
-<path fill="#999999" d="M1,1v14h14V1H1z M2,2h12v12H2V2z"/>
-<path fill="#FFC857" d="M13,8v5H5V7h4l1,1H13z"/>
-<path fill="#E8A33D" d="M13,9H9l-1,1H5V8h8V9z"/>
-<rect x="3" y="3" fill="#FF8700" width="1" height="1"/>
-<rect x="3" y="5" fill="#FF8700" width="1" height="1"/>
-<rect x="5" y="3" fill="#B9B9B9" width="8" height="1"/>
-<rect x="5" y="5" fill="#B9B9B9" width="8" height="1"/>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path d="M18,4h14v10h-4V8H16.344l-4-4H4v18h12v4H0V0h14L18,4z M18,16h14v16H18V16z M20,30h10V18H20V30z M22,22h6v-2h-6V22z M22,26h6
+	v-2h-6V26z"/>
 </svg>
