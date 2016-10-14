@@ -1,10 +1,10 @@
 {
-  "name": "wmdbsystems-typo3-icons",
+  "name": "tinygiants-typo3-icons",
   "description": "SVG icons for the TYPO3 CMS backend",
-  "repository": "https://github.com/wmdbsystems/T3.Icons",
+  "repository": "https://github.com/TinyGiants/T3.Icons",
   "readme": "README.md",
-  "homepage": "http://www.wmdb.de",
-  "author": "Florian Steller",
+  "homepage": "http://wearetinygiants.com",
+  "author": "Lasse Nørby",
   "version": "0.0.1-dev",
   "license": "MIT",
   "devDependencies": {
