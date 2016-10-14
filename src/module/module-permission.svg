@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<rect fill="#184F44" width="64" height="64"/>
-<path fill="#FFFFFF" d="M45,48H19c-0.552,0-1-0.448-1-1V31c0-0.552,0.448-1,1-1h26c0.552,0,1,0.448,1,1v16
-	C46,47.552,45.552,48,45,48z"/>
-<path fill="#FFFFFF" d="M32,19.5c3.308,0,6,2.692,6,6h4c0-5.523-4.477-10-10-10s-10,4.477-10,10v8h4v-8
-	C26,22.192,28.692,19.5,32,19.5z"/>
-<circle fill="#184F44" cx="32" cy="38" r="4"/>
-<rect x="30" y="38" fill="#184F44" width="4" height="6"/>
-</svg>
+<!-- Copyright © 2015 MODULUS Sp. z o. o. / FUTURAMO™ --><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 32 32"><path  fill="#FFFFFF" d="M17,20.922v4.156C17,26.141,16.105,27,15,27s-2-0.859-2-1.922v-4.156C13,19.859,13.895,19,15,19 S17,19.859,17,20.922z M24,14h2v18H4V14h2v-4c0-5.5,4.051-10,9-10s9,4.5,9,10V14z M22,18H8v10h14V18z M20,14v-4c0-3.252-2.287-6-5-6 s-5,2.748-5,6v4H20z"></path></svg>
